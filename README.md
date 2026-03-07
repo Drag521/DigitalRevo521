@@ -2,6 +2,8 @@
 
 Tech + Faith Tools I Actually Use
 
+*As an Amazon Associate I earn from qualifying purchases*
+
 ## Top Pick
 
 **Btootos Bluetooth v5.4** - $25
