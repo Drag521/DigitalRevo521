@@ -1,3 +1,10 @@
+# Add the disclosure line
+# Save: Ctrl+O, Enter, Ctrl+X
+
+git add README.md
+git commit -m "Add Amazon disclosure"
+git push origin main
+
 # DigitalRevo Picks
 
 Tech + Faith Tools I Actually Use
